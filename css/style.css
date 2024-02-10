@@ -58,6 +58,10 @@ li a:visited{
     color: black;
 }
 
+li a:link{
+    color:black;
+}
+
 body {
     
     font-family: Arial, Helvetica, sans-serif;
